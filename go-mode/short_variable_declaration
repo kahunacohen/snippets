@@ -1,0 +1,6 @@
+# -*- mode: go-mode -*-
+# name: short_variable_declaration
+# key: :
+# --
+
+${1:lhs} := ${2:rhs}
